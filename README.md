@@ -1,7 +1,12 @@
 # BATATABIT
 
 
-A website with HTML and CSS, responsive for Desktop and Mobile.
+My first project mobile first. This project uses HTML and CSS is a course from Platzi. In this Course i practiced responsive design and best practice with HTML and CSS.
+About the website:
+The name of the Project is  BataBit, BataBit is a real business and Platzi share this Project for practicing whit your students.
+ 
+Amazing course, I liked it and enjoyed it!
+
 
  
 
